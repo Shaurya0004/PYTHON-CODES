@@ -1,0 +1,11 @@
+Some importannt tips for CMD:-
+First of all,if you want to do the given things below in the command prompt then you have to first type=  cmd\   and then press enter.
+Now if you want to change the color of the font in the command prompt then type=   color y      and press enter and the other commands are givem in the cmd itself.
+Now if you want to clear everything you have written (executed) in the cmd just typr=     cls and press enter, it clears everything and now you can start your new work.
+Now if you want to get details of all the directories in the c drive then just type=      dir and press enter.
+Now if you want to ener into a particular folder and just type =    cd folder name given in the directory.
+(there is a gap  between the cd and the folderr name you will enter. )
+Now if you want to know or open a particular file /folder in the folder you opened in the above step just repeat the step number 5 abd 6 and so on for the next files.
+Now if you want to go back to the previous folder again then type =     c..      and press enter.
+Now if you know what are the names of the folders that are present in the directory and want to directly open a particular folder nad instead of opening the direcrory first and then opening that particular folder , just type=   cd folder name     and press enter.
+
